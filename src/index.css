@@ -1,3 +1,31 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+img {
+
+  margin-top: 10px;
+}
+img:hover{
+  opacity: 0.3;
+  /* border: solid 1px ; */
+  cursor: pointer;
+  opacity: 0.7;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+
+}
+
+#appNode h2 {
+  font-size: 28px;
+  font-weight: 600px;
+  color: rgb(120, 151, 120);
+}
+
+#appNode {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8em;
+  align-items: center;
+  justify-content: center;
+}
