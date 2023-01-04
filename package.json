@@ -1,4 +1,4 @@
-{
+{"homepage": "https://gabino2395.github.io/DOM-1-Avocado/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",

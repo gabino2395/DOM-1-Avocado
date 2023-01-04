@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://gabino2395.github.io/DOM-1-Avocado/',
   },
 }
