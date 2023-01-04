@@ -6,4 +6,4 @@ node_modules
 license
 readme.node_modules
 yarn.lock
-snowpack.config
+snowpack.config.js
